@@ -1,16 +1,18 @@
 {
-  "id": "acode.plugin",
-  "name": "Plugin",
+  "id": "acode.plugin.solidity",
+  "name": "Solidity-Syntax-Highlighting",
   "main": "dist/main.js",
   "version": "1.0.0",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
-  "minVersionCode" : 290,
   "price": 0,
+  "minVersionCode": 290,
   "author": {
-    "name": "",
-    "email": "",
-    "github": ""
+    "name": "Zinda Lukman",
+    "email": "zindalukman01@gmail.com",
+    "url": "https://www.twitter.com/0xlookman",
+    "github": "Zinda-Lukman"
   }
 }
+
